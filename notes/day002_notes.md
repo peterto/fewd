@@ -43,12 +43,10 @@ JS
 CSS
 
 IMGS
--
 
 *TAGS*
 <HTML>
-
-<IMG SRC="IMG/YO.gif" >
+<IMG SRC="IMG/YO.gif">
 </HTML>
 
 relative/absolute paths
@@ -233,8 +231,6 @@ fade.js
 *reset.css*
 Zeroes out everything on your site for every browser.
 Each browser has a predetermined number of settings.
-
-
 
 px, pt, em, en
 
