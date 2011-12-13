@@ -7,6 +7,8 @@ HTML5/CSS for 5 weeks.
 JavaScript/jQuery for the rest.
 
 Joey Killrain
+joey@kilrain.com
+646-526-3128
 -Building things from scratch and troubleshooting.
 -Practice
 
